@@ -1,2 +1,2 @@
 # sk-checker
-Stripe secret key checker 
+Made by @ckbi
